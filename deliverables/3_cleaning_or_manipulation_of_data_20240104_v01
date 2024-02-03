@@ -1,0 +1,13 @@
+Cleaning or Manipulation of Data
+
+1. Data Size and Categories: The size of the dataset and the number of categories were reviewed. This provided insight into the structure and complexity of the data.
+
+2. Missing Data Check: Any missing data in the dataset was identified. This is a critical step as missing data can lead to incorrect results during analysis.
+
+3. Data Type Verification: The data was verified to be contained in the appropriate data type. This is important for maintaining data integrity and consistency.
+
+4. Spelling and Whitespace Removal: Spelling errors were checked for and unnecessary whitespaces were removed. This helped in standardizing the data and reducing noise.
+
+5. Manual Review: The cleaned data was manually reviewed to ensure its accuracy and completeness. This is a necessary step to catch any errors or inconsistencies that might have been missed during the automated cleaning process.
+
+6. Date Time Stamp Manipulation: Date time stamps were split into date and time respectively, the time column was deleted, and the date was converted from character to date type for the 'heartrate_seconds_merged' and 'sleepDay_merged' spreadsheets. For the 'dailyActivity_merged' and 'dailySteps_merged' spreadsheets, the date was converted from character type to the appropriate date type. This was done to ensure that dates are stored in a format that is easy to manipulate and analyze.

@@ -1,0 +1,9 @@
+Data Sources Description
+
+The data used to answer the business task was sourced from the FitBit Fitness Tracker Data available on Kaggle, made accessible by Mobius. Four distinct data tables were chosen for this purpose: dailyActivity, dailySteps, heartRate in seconds, and dailySleep. These tables were selected to gain a deeper understanding of user habits on a daily basis.
+
+The dataset was downloaded and stored locally on the computer in the "Bellabeat_case_study" folder. The relevant data tables, which were contained within different spreadsheet files, were then selected for analysis.
+
+It's important to note that while the data is reliable, original, and cited, it is not current (collected in 2016). Additionally, the dataset does not fully monitor daily app usage in relation to stress, limiting its comprehensiveness. However, data anonymity is maintained as there are no user initials included.
+
+The data is complete, accurate, valid, and consistent. It is organized in a long format, which allows for a detailed examination of individual records over time. Despite these strengths, the dataset does have limitations that should be considered when interpreting the results.
